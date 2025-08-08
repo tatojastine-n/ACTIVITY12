@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\EvenOrOddNumberChecker\bin\Debug\EvenOrOddNumberChecker.exe.config
+C:\Users\HP\source\repos\EvenOrOddNumberChecker\bin\Debug\EvenOrOddNumberChecker.exe
+C:\Users\HP\source\repos\EvenOrOddNumberChecker\bin\Debug\EvenOrOddNumberChecker.pdb
+C:\Users\HP\source\repos\EvenOrOddNumberChecker\obj\Debug\EvenOrOddNumberChecker.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\EvenOrOddNumberChecker\obj\Debug\EvenOrOddNumberChecker.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\EvenOrOddNumberChecker\obj\Debug\EvenOrOddNumberChecker.exe
+C:\Users\HP\source\repos\EvenOrOddNumberChecker\obj\Debug\EvenOrOddNumberChecker.pdb
